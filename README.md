@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Abdifathi-mohamed
+- 👋 Hi, I’m @Abdifathi Mohamed 
 - 👀 I’m interested in software engineering 
 - 🌱 I’m currently learning Alx Software Engineering 
 - 💞️ I’m looking to collaborate on projects about coding 
-- 📫 How to reach me
+- 📫 Feel free to reach me any time 
